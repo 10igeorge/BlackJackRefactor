@@ -1,6 +1,6 @@
-# _Application Name_
+# _BlackJack_
 
-#### _Short Summary of Application!_
+#### _BlackJack app built with JavaScript for intro in Epicodus as the first group project._
 
 #### By _**Andy Cho, Izzy George, Kevin Mattison, Tim Durward**_
 
@@ -11,7 +11,7 @@ _Brief Description of Application._
 ## Setup/Installation Requirements
 
 * _Open CMD/Terminal_
-* _git clone (github url)_
+* _git clone https://github.com/10igeorge/intro-groupproject.git_
 * _cd into Git Repo_
 * _open index.html_
 * _BE. AMAZED._
